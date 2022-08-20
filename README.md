@@ -3,4 +3,18 @@
 - :mortar_board: I graduated from Industrial Engineering
 - 🔭 I’m currently working on DenizBank
 - 🌱 I’m currently learning Python, R, SQL, Machine Learning and Deep Learning Concepts, How to be a Better Data Scientist :blush:
-- 📫 How to reach me: yavuzidil@gmail.com
+
+### How to reach me:
+
+<p>
+  <a href="https://www.linkedin.com/in/idil-yavuz-aydın/" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
+  <a href="https://github.com/TyrannuSavana" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
+  </a>
+</p>
+  
+E-Mail: yavuzidil@gmail.com
+
+
